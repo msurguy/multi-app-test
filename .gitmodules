@@ -1,0 +1,3 @@
+[submodule "laravel-facebook-login"]
+	path = laravel-facebook-login
+	url = https://msurguy@github.com/msurguy/laravel-facebook-login

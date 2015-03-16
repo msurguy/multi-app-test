@@ -7,3 +7,6 @@
 [submodule "charts"]
 	path = charts
 	url = git@github.com:msurguy/laravel-charts.git
+[submodule "shop-reviews"]
+	path = shop-reviews
+	url = git@github.com:msurguy/laravel-shop-reviews.git

@@ -1,3 +1,6 @@
 [submodule "facebook-login"]
 	path = facebook-login
 	url = https://msurguy@github.com/msurguy/laravel-facebook-login
+[submodule "critter"]
+	path = critter
+	url = git@github.com:msurguy/critterapp.git

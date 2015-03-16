@@ -4,3 +4,6 @@
 [submodule "critter"]
 	path = critter
 	url = git@github.com:msurguy/critterapp.git
+[submodule "charts"]
+	path = charts
+	url = git@github.com:msurguy/laravel-charts.git

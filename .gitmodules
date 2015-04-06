@@ -10,3 +10,6 @@
 [submodule "shop-reviews"]
 	path = shop-reviews
 	url = git@github.com:msurguy/laravel-shop-reviews.git
+[submodule "shop-seo"]
+	path = shop-seo
+	url = git@github.com:msurguy/laravel-seo.git

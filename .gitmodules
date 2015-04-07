@@ -13,3 +13,6 @@
 [submodule "shop-seo"]
 	path = shop-seo
 	url = git@github.com:msurguy/laravel-seo.git
+[submodule "smart-search"]
+	path = smart-search
+	url = git@github.com:msurguy/laravel-smart-search.git

@@ -16,3 +16,6 @@
 [submodule "shop-search"]
 	path = shop-search
 	url = git@github.com:msurguy/laravel-smart-search.git
+[submodule "ajax-pagination"]
+	path = ajax-pagination
+	url = git@github.com:msurguy/laravel-backbone-pagination.git
